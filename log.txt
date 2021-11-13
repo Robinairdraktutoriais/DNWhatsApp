@@ -10,11 +10,11 @@
 
 
 
-<l>anti visualização unica.</li>
+<li>anti visualização unica.</li>
 
 
 
-<l>encaminhar mensagem para mais de 256 contatos.</li>
+<li>encaminhar mensagem para mais de 256 contatos.</li>
 
 
 
