@@ -2,13 +2,17 @@
 <p>DNWhatsApp V10</p>
 
 
-<l>nova versão atualizada para 2.21.22.8.</li>
+<l>Nova Versão Atualizada para 2.21.22.8</li>
 
-<l>adicionado</li>
 
-<l>visualização única.</li>
+<li>ADICIONADO.</li>
 
-<l>clean database</li>
+
+<l>anti visualização unica.</li>
+
+
+<l>encaminhar mensagem para mais de 256 conversas.</li>
+
 
 ","url":"https://dnwhatsapp.webnode.com"
 }
