@@ -5,13 +5,17 @@
 <l>Nova Versão Atualizada para 2.21.22.8</li>
 
 
+
 <li>ADICIONADO.</li>
+
 
 
 <l>anti visualização unica.</li>
 
 
-<l>encaminhar mensagem para mais de 256 conversas.</li>
+
+<l>encaminhar mensagem para mais de 256 contatos.</li>
+
 
 
 ","url":"https://dnwhatsapp.webnode.com"
